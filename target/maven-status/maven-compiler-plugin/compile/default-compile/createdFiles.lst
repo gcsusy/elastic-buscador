@@ -1,0 +1,9 @@
+gc\unir\actividad2\elastic_buscador\ElasticBuscadorApplication.class
+gc\unir\actividad2\elastic_buscador\services\ProductoService.class
+gc\unir\actividad2\elastic_buscador\ServletInitializer.class
+gc\unir\actividad2\elastic_buscador\models\Producto.class
+gc\unir\actividad2\elastic_buscador\config\CorsConfig.class
+gc\unir\actividad2\elastic_buscador\controller\ElasticBuscadorController.class
+gc\unir\actividad2\elastic_buscador\controller\ProductoController.class
+gc\unir\actividad2\elastic_buscador\config\ElasticsearchConfig.class
+gc\unir\actividad2\elastic_buscador\repository\ProductoRepository.class

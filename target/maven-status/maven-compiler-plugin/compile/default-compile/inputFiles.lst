@@ -1,0 +1,9 @@
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\config\CorsConfig.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\config\ElasticsearchConfig.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\controller\ElasticBuscadorController.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\controller\ProductoController.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\ElasticBuscadorApplication.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\models\Producto.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\repository\ProductoRepository.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\services\ProductoService.java
+D:\personal\maestria\1erSemestre\DesarrolloWebIntegral\Actividades\actividad2\despliegue\elastic_buscador\src\main\java\gc\unir\actividad2\elastic_buscador\ServletInitializer.java
