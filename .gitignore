@@ -1,7 +1,6 @@
 HELP.md
-*.jar
 *.war
-
+*.jar
 ### STS ###
 .apt_generated
 .classpath

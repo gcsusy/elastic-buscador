@@ -14,7 +14,7 @@ public class CorsConfig {
     @Bean
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
-        config.setAllowedOrigins(List.of("http://localhost:5173")); // Permite tu frontend
+        config.setAllowedOrigins(List.of("http://localhost:5173","https://actividad1-gctiendav1.vercel.app")); // Permite tu frontend
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(List.of("Content-Type", "Authorization"));
         //config.setAllowCredentials(true); // Si usas cookies o autenticación
